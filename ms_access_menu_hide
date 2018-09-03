@@ -1,0 +1,26 @@
+
+<customUI xmlns="http://schemas.microsoft.com/office/2009/07/customui">
+  <ribbon startFromScratch="true">
+  </ribbon>
+  <backstage>
+
+
+<button idMso="ApplicationOptionsDialog" visible="false"/>
+    <tab idMso="TabInfo" visible="false"/>
+    <button idMso="FileSave" visible="false"/>
+    <button idMso="SaveObjectAs" visible="false"/>
+    <button idMso="FileSaveAsCurrentFileFormat" visible="false"/>
+    <button idMso="FileOpen" visible="false"/>
+    <button idMso="FileCloseDatabase" visible="false"/>
+
+    <tab idMso="TabRecent" visible="false"/>
+    <tab idMso="TabNew" visible="false"/>
+
+    <tab idMso="TabPrint" visible="false"/>
+    <tab idMso="TabShare" visible="false"/>
+    <tab idMso="TabHelp" visible="false"/>
+
+    <button idMso="ApplicationOptionsDialog" visible="false"/>
+    <button idMso="FileExit" visible="false"/>
+  </backstage>
+</customUI>
