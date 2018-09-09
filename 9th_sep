@@ -1,0 +1,85 @@
+Today's Topics
+=============
+-Variable and Data Type
+-Operator
+-Condition and Type
+-Loop and Type
+
+Variable and Data Type
+================
+Variable : is temp. memory where data can be stored
+	a =1 ' here a is variable and 1 is data (number)
+	b = "abcd"  ' here b is variable and abcd data (text/string)
+	a ="sgs"
+	
+	 
+
+
+Data Type
+	Dim a as Integer
+
+
+Operator
+=================
+Conditioal 
+	>
+	>=
+	<
+	<=
+	=
+	<>		not equal 
+
+	
+Arithmetic
+	+
+	-
+	*
+	/
+	mod 
+
+
+
+
+Condition and Type	
+=====================
+Condition : is decision making statement 
+There are following types 
+i. if condition 
+	-if condition 
+	-if else 
+	-if elseif elseif  else  / ladder if else 
+	-nested if else / if inside if 
+ii. select case 
+	Select Case var
+
+		Case 1
+
+		Case 2
+
+		Case 3
+
+	End Select
+
+Loop and Type
+===================
+Loop  : is iterator which repeat the set of instructions of commands 
+Example:
+	1 2 3.. 100
+Fundamental of loop:
+	-init / start 		: 1
+	-condition /limit	: 100
+	-increment/decrement 	:+1
+
+There are following type of loop:
+-for			*
+-while
+-do unitl
+-foreach		*
+etc.
+
+
+
+Q. wap to get total no. of rows of given value "APPLE"
+Q. WAP TO GET TOTAL AMOUNT AND AVERAGE OF ALL VALUES
+				OF GIVEN VALUES 
+	
