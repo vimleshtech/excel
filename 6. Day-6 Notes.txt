@@ -1,0 +1,20 @@
+Data Consolidated 	 ** 
+
+Data Import from other source to MS Excel		
+	-Data from text file, MS access, other file system
+	-Data from MS SQL Server
+
+Excel shortcut keys		**
+	-Customize the Menu Ribbon/Option and other shortcuts
+	Step :
+		Go to file menu -> the go to options
+	
+Header & Footer   : insert menu    **
+
+Object  m Symbol & Equation : insert menu 
+Headings		: view menu 
+Formula bar		: view menu 
+Page layout		: view menu 	**
+Zoom in / Zoom out
+
+
